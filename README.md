@@ -1,2 +1,2 @@
 # repozitorijum1
-moj prvi rep
+moj prvi rep, promenjen u drugoj branch
